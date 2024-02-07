@@ -6,7 +6,7 @@ A visually stunning and animated frontend web project that with fancy animations
 
 ## Link
 
-
+https://arponsamanta.github.io/Two-Good/
 
 ## [Technologies Used]
 - HTML
