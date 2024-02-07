@@ -2,7 +2,7 @@
 
 ## Description
 
-A visually stunning and animated frontend web project that with fancy animations.
+A visually stunning and animated responsive frontend web project that with fancy animations.
 
 ## Link
 
